@@ -1,6 +1,6 @@
 *.iml
 .idea
 .allure
-.allure-results
-.build
+allure-results
+build
 target
